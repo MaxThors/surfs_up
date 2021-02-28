@@ -8,7 +8,7 @@ on the months of June and December. We then converted it into data frames and ca
 ## Results
 Here are the summary statistics we produced:
 ### June
-![](analysis/June_Summary.png)
+![](analysis/June_Summary.PNG)
 ### December
 ![](analysis/December_Summary.PNG)
 
